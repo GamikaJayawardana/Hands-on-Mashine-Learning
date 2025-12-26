@@ -1,10 +1,3 @@
-# Machine Learning Learning Journey
-
-This document records my journey learning **Machine Learning**, based on YouTube tutorials and practical coding examples.
-Each code block is explained using **Python comments** for better understanding.
-
----
-
 ## Single Variable Linear Regression
 
 ### Goal
